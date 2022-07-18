@@ -1,0 +1,16 @@
+.service-icon{
+    width: 50px;
+}
+.col-md-3 {
+    height: 175px;
+}
+#login-img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%!important;
+    vertical-align: middle;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 20px;
+}
