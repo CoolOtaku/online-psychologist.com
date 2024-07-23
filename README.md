@@ -10,6 +10,9 @@ The project visualizes the work of a business card website with publications on 
 
 The project also has a Telegram bot, on which you can choose a psychologist and communicate with him.
 
+In order for the application to cooperate with the Firebase service. Requires data from your [google-service-account.json](https://github.com/CoolOtaku/online-psychologist.com/blob/main/telegram-bot/fireBase/google-service-account.json)
+And also for the Telegram bot to work, you need to replace [TOKEN](https://github.com/CoolOtaku/online-psychologist.com/blob/main/telegram-bot/botHelper.php) to your bot token!
+
 <b>UA:</b>
 
 Це доопрацьована версія курсового проекту, який у мене замовили ([Online-Psychologist](https://github.com/CoolOtaku/Online-Psychologist)).
@@ -17,6 +20,9 @@ The project also has a Telegram bot, on which you can choose a psychologist and 
 Проект візуалізує роботу сайту візитки з публікаціями на тему психології. Також присутня пату тестування для визначення хсихічного стану. З використанням власного API.
 
 Проект також має Telegram бот, на якому можна вибрати собі психолога та спілкуватися з ним.
+
+Для того, щоб співпрацював додаток із сервісом Firebase. Потрібні дані з вашого [google-service-account.json](https://github.com/CoolOtaku/online-psychologist.com/blob/main/telegram-bot/fireBase/google-service-account.json)
+І також щоб працював Telegram бот потрібно замінити [TOKEN](https://github.com/CoolOtaku/online-psychologist.com/blob/main/telegram-bot/botHelper.php) на ваш токін бота!
 
 #
 ## Screenshots
