@@ -1,5 +1,5 @@
 <?php 
-const TOKEN = '5117210479:AAHOQDCyBEin8Q8O6J1kB7XjGvsTnkbChck';
+const TOKEN = '[YOU_TELEGRAM_BOT_TOKEN]';
 const BASE_URL = 'https://api.telegram.org/bot'.TOKEN.'/';
 
 function send($method, $params){
