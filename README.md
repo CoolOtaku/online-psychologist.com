@@ -38,6 +38,7 @@ The project also has a Telegram bot, on which you can choose a psychologist and 
 - Creating a Telegram bot
 - Using the Firebase service for data storage and push notifications
 - Using embedded YouTube videos
+- Authorization through Google
 - Navigation on the site
 
 <b>UA:</b>
@@ -48,6 +49,7 @@ The project also has a Telegram bot, on which you can choose a psychologist and 
 - Створення Telegram-бота
 - Використання служби Firebase для зберігання даних і push-повідомлень
 - Використання вбудованих відео YouTube
+- Авторизація через Google
 - Навігація по сайту
 #
 ## License
