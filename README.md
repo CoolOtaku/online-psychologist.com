@@ -37,8 +37,10 @@ And also for the **Telegram** bot to work, you need to replace [TOKEN](https://g
 #
 ## Technologies used
 <b>EN:</b>
-- Using **Bootstrap** (front-end framework)
-- Using a third-party template for site layout (built on **Bootstrap**)
+- Using [**Bootstrap**](https://getbootstrap.com) (front-end framework)
+- Using a third-party template for site layout (built on [**Bootstrap**](https://getbootstrap.com))
+- Using the library [**jQuery**](https://jquery.com)
+- Using the library [**SweetAlert2**](https://sweetalert2.github.io)
 - Using a **MySQL** database
 - Creating your own **API**
 - Creating a **Telegram** bot
@@ -48,8 +50,10 @@ And also for the **Telegram** bot to work, you need to replace [TOKEN](https://g
 - Navigation on the site
 
 <b>UA:</b>
-- Використання **Bootstrap** (front-end framework)
-- Використання стороннього шаблону для макета сайту (на основі **Bootstrap**)
+- Використання [**Bootstrap**](https://getbootstrap.com) (front-end framework)
+- Використання стороннього шаблону для макета сайту (на основі [**Bootstrap**](https://getbootstrap.com))
+- Використання бібліотеки [**jQuery**](https://jquery.com)
+- Використання бібліотеки [**SweetAlert2**](https://sweetalert2.github.io)
 - Використання бази даних **MySQL**
 - Створення власного **API**
 - Створення **Telegram** бота
